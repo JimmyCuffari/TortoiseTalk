@@ -1,0 +1,7 @@
+struct UserChat
+{
+	unsigned long index;
+	string username;
+	string message;
+	long picture;
+};
