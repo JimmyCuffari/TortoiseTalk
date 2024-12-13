@@ -1,0 +1,1 @@
+ C:\\Users\\jimmy\\Desktop\\FastDDS\\FlutterFastDDS\\.dart_tool\\flutter_build\\3a280437248214cbee86ed85c9f479f1\\native_assets.yaml: 

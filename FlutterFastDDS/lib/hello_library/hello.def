@@ -1,0 +1,5 @@
+LIBRARY   hello
+EXPORTS
+   hello_world
+   returnHello
+   returnX

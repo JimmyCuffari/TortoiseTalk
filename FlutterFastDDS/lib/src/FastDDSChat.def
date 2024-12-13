@@ -1,0 +1,17 @@
+LIBRARY   FastDDSChat
+EXPORTS
+   addUser
+   createPublisher
+   killThreads
+   setSendMessage
+   setCurrTab
+   receiveDart
+   setDartReceiveCallback
+   callbackNative
+   setUsername
+   dartRemoveUser
+   getCurrentUserStatus
+   statusCallbackNative
+   statusReceiveDart
+   setDartStatusReceiveCallback
+   setPicture
